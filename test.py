@@ -76,5 +76,3 @@ print(total[0])
 #Compared to native speech, here are the PROSODIC features of your speech
 #mysp.myprosody(p,c)
 
-#CEFR Level -Not Working-
-#mysp.mysplev(p,c)
